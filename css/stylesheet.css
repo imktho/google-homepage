@@ -127,6 +127,7 @@ footer div{
     padding: 5px;
     display: flex;
     width: 100%;
+    white-space: nowrap;
 }
 
 footer div:nth-child(1){
